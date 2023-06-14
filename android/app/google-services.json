@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382230254553",
+    "project_id": "login-239a6",
+    "storage_bucket": "login-239a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382230254553:android:6c73156d51a48de32e3fc8",
+        "android_client_info": {
+          "package_name": "com.uitask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382230254553-63rs1b09nor43f1dajdb0b5kgc486c01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1QWVFZm1Nbnz7qjgelNftppZAtyYseSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382230254553-63rs1b09nor43f1dajdb0b5kgc486c01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
